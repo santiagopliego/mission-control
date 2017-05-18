@@ -1,0 +1,42 @@
+
+
+/* Header & Intro
+––––––––––––––––––––––––––––––––––––––––––––––––––
+*/
+
+.header > h1 {
+	font-size: 4.5rem;
+	font-weight: 800;
+	color: #172742;
+	margin-bottom: 0;
+}
+
+.header > h2 {
+	font-size: 3.2rem;
+	color: #84CD3F;
+}
+
+p {
+	font-size: 2.4rem;
+	color: #172742;
+}
+
+
+
+
+/* Table Styling
+––––––––––––––––––––––––––––––––––––––––––––––––––
+*/
+
+td {
+	font-size: 2rem;
+	font-family: "univia-pro",sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+i {
+	width: 20px;
+	color: #00A1DB;
+	cursor: pointer;
+}
